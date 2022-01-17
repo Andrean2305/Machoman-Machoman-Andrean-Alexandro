@@ -5,9 +5,7 @@ Course : Human & Computer Interaction (COMP6800001)
 
 Team : MachoMan
 
-Member   : Andrean Hasan (2501982550)
-
-         : Alexandro Joe Claudio (2501963160)
+Member   : Andrean Hasan (2501982550), Alexandro Joe Claudio (2501963160)
          
 About the app : An interactive edgy workout application that can be used enjoyably for all of the ages especially teenagers and gamers.
 
