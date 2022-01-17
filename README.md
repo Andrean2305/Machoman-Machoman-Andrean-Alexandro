@@ -20,3 +20,5 @@ For the HTML parts we did it online using the replit.com, the Andrean downloads 
 To see our works just click : https://andrean2305.github.io/Machoman-Machoman-Andrean-Alexandro/
 
 Test case : https://docs.google.com/spreadsheets/d/1WzhqrOLMimjv_mLnOLcd2qmWn3xCHtnQK7XWFNOHdfE/edit#gid=0
+
+Demo video  : https://youtu.be/8zWVgAgNigQ
